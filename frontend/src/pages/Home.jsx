@@ -78,6 +78,7 @@ function Home() {
         <br />
         <input type="submit" value="Submit"></input>
       </form>
+      <p>我是罗晗晖</p>
     </div>
   );
 }

@@ -36,6 +36,7 @@ function Form({ route, method }) {
   return (
     <form onSubmit={handleSubmit} className="form-container">
       <h1>{name}</h1>
+      <p>我是罗晗晖</p>
       <input
         className="form-input"
         type="text"
